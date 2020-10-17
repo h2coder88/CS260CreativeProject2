@@ -1,0 +1,28 @@
+body {
+  background-color: #c9d1d4;
+}
+
+.head {
+  width: 100%;
+}
+
+.head p {
+  font-size: 200%;
+  text-align: center;
+  color: #4c798a;
+  font-family: impact;
+}
+
+#header {
+  margin: 30px 0;
+}
+
+#weekForm {
+  margin: 30px 0;
+}
+
+@media only screen and (min-width: 800px) {
+  .head p {
+    font-size: 350%;
+  }
+}
